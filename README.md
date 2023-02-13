@@ -26,7 +26,7 @@ Mask is generated randomly and is not in the covid zone. You do not know the loc
 perceive mask only when you are inside the mask cell. If you get the mask, covid cannot harm you even if you go
 inside covid infected cells.
 #### Algorithms
-A backtracking search
+An A* search
 #### Variants
 The algorithms consider two scenarios:
 1) In one scenario, you can perceive covid if you are standing next to the covid infected cells
